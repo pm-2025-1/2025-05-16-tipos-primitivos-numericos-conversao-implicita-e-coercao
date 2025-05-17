@@ -1,1 +1,9 @@
-# 2025-05-16-tipos-primitivos-numericos-conversao-implicita-e-coercao
+# TIPOS
+
+Referência
+
+<https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/built-in-types>
+
+## Tipos Internos ou Primitivos (ou básicos)
+
+Numéricos, booleanos e caracteres
